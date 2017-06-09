@@ -3,7 +3,7 @@
     "lerna": "^2.0.0-rc.5"
   },
   "name": "lerna-hdm-test",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "description": "lerna test",
   "main": "index.js",
   "scripts": {
