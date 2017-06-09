@@ -1,3 +1,3 @@
 module.export = {
-    a: 20
+    a: 40
 };
