@@ -1,6 +1,6 @@
 {
-  "name": "package-a",
-  "version": "3.0.2",
+  "name": "lerna-test-package-a",
+  "version": "3.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
